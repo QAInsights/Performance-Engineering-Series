@@ -1,14 +1,14 @@
-# About BuggyApp
+# 🐛 About BuggyApp
 
 BuggyApp helps to simulate various performance problems to learn the concept of performance engineering and debugging.
 
-# How to get started with BuggyApp?
+# 🏃‍♀️ How to get started with BuggyApp?
 
 BuggyApp has two flavors: Java app and Web app.
 
 ## Getting Started with the Java app
 
-### Prerequisites:
+### Prerequisites
 
 - Java 8 or above
 
