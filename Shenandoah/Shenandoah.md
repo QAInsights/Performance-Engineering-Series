@@ -1,5 +1,4 @@
 # Shenandoah GC Settings
-
 ## Shenandoah GC Visualizer
 
 * Clone the repo from https://github.com/openjdk/shenandoah-visualizer
